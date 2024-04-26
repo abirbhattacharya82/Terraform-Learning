@@ -1,0 +1,2 @@
+## Explicit Dependency
+Here we are making use of Explicit Dependency where we are using the value of one Provider to another Provider by making use of Explicit Dependency. The order in which the resources are created is mentioned here in Explicit Dependency unlike Implicit Dependency where Terraform infers the order itself.
