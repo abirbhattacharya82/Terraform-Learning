@@ -36,3 +36,11 @@ Open your Powershell and Run this command.
 & $env:Temp\GoogleCloudSDKInstaller.exe
     
 ```
+
+#### Connecting with Cloud Virtual Machine
+For the Cloud Vrtual we have to simply go to the GCP Console and fire up the cloud shell. Once that is done next thing is we will find that terraform is already installed there. Since Terraform is already there all we have to do is create a main.tf using the nano editor and inside that we can use the same script we used previously and follow the proceedings to run the script.
+
+#### Connecting with a Service Account
+There are a few steps we need to do before connecting it with the Service Account.
+- Creating role for the service account
+- Creating a key for the service account which will be used to connect with the Google Cloud Platform
