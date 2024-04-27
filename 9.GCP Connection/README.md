@@ -43,4 +43,14 @@ For the Cloud Vrtual we have to simply go to the GCP Console and fire up the clo
 #### Connecting with a Service Account
 There are a few steps we need to do before connecting it with the Service Account.
 - Creating role for the service account
+
+
+https://github.com/abirbhattacharya82/Terraform-Learning/assets/70687014/1449b8c7-f9d3-4480-be53-622548f33c1d
+
+
+
+
+
+
 - Creating a key for the service account which will be used to connect with the Google Cloud Platform
+https://github.com/abirbhattacharya82/Terraform-Learning/assets/70687014/2227e384-9af3-4b8a-a79a-350a4c191dfc
