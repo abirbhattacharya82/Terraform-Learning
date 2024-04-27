@@ -6,3 +6,5 @@ https://github.com/abirbhattacharya82/Terraform-Learning/assets/70687014/468ba2f
 https://github.com/abirbhattacharya82/Terraform-Learning/assets/70687014/142757b0-79e0-47de-9629-17ff48f9af35
 
 ### Creation of Bucket using the Service Account and Uploading the Video_Games.csv file in the bucket
+https://github.com/abirbhattacharya82/Terraform-Learning/assets/70687014/c643c038-da1e-47e1-96f9-37b3a41b3dfb
+
