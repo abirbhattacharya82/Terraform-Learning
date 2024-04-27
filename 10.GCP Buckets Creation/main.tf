@@ -19,3 +19,8 @@ provider "google" {
   # region
   region = "<region like us-central1-a>"
 }
+
+resource "google_storage_bucket" "gsb" {
+  name = "abir-first-bucket-with-terraform"
+  location = "<same as zone>"
+}
