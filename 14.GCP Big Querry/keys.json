@@ -1,0 +1,13 @@
+{
+  "type": "<respective values of the keys>",
+  "project_id": "<respective values of the keys>",
+  "private_key_id": "<respective values of the keys>",
+  "private_key": "<respective values of the keys>",
+  "client_email": "<respective values of the keys>",
+  "client_id": "<respective values of the keys>",
+  "auth_uri": "<respective values of the keys>",
+  "token_uri": "<respective values of the keys>",
+  "auth_provider_x509_cert_url": "<respective values of the keys>",
+  "client_x509_cert_url": "<respective values of the keys>",
+  "universe_domain": "<respective values of the keys>"
+}
